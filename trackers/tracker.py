@@ -127,4 +127,3 @@ class Tracker:
 
 
 
-#stopped video at 1hr:42mins on9/15/25 at 1:47am

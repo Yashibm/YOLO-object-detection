@@ -1,4 +1,4 @@
-#YOLO - You Only Look Once
+# YOLO - You Only Look Once
 
 This repository contains a basic version of a YOLO model that takes football match images as inputs and makes predictions of different objects like players, referees and the ball, in a video.
 
